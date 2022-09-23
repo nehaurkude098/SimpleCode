@@ -1,0 +1,5 @@
+class Demo2{
+	public static void test(){
+	System.out.println("pass");
+	}
+}
